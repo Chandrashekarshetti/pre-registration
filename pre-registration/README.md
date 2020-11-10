@@ -1,5 +1,5 @@
 ## Pre-Registration:
-Pre-Registration module enables Individuals to book for an appointment in a Registration Centre, by providing basic demographic details.
+TEST Pre-Registration module enables Individuals to book for an appointment in a Registration Centre, by providing basic demographic details.
 Pre-Registration details are consumed by Registration module while registering an Individual.
 
 Pre-Registration has a UI component and a set of REST Services that back the UI. The UI component can be found at https://github.com/mosip/mosip-ref-impl/tree/master/pre-registration-ui.
